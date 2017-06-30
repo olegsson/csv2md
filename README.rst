@@ -32,6 +32,10 @@ usage
 
     print(markdown)
 
+prints:
+
+.. code::
+
     | column1 | column2 |
     |---------|---------|
     | val1    | val2    |
