@@ -1,0 +1,5 @@
+/csv2md/__pycache__/
+/dist/
+*.pyc
+/*.egg-info
+/build/
