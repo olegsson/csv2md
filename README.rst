@@ -6,8 +6,16 @@ Python port of `CsvToMarkdownTable
 
 Should work with both Python 2.7 and 3.X
 
+install
+-------
+
+.. code::
+
+    $ pip install csv2md
+
 usage
 -----
+
 
 .. code:: python
 
